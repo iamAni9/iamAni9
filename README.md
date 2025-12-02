@@ -135,12 +135,23 @@
 </table>
 
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamAni9&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=ffffff)
-
-
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamAni9&theme=tokyonight&hide_border=true)
+## 🔥 Stats
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamAni9&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" 
+        alt="Top Languages" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iamAni9&theme=tokyonight&hide_border=true" 
+        alt="GitHub Streak" 
+      />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamAni9&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
