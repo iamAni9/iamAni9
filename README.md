@@ -153,6 +153,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://github.com/iamAni9/iamAni9/blob/output/github-snake.svg" alt="snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamAni9&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
