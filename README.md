@@ -25,7 +25,7 @@
 
 </td>
 <td width="40%" align="center">
-  <img src="https://github-stats-extended-frontend-beryl.vercel.app/api?username=iamAni9&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAni9&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" alt="Streak Stats" />
 </td>
 </tr>
 </table>
@@ -56,12 +56,16 @@
 ## 📈 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAni9&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" height="195" alt="Streak" />
-  <img src="https://github-stats-extended-frontend-beryl.vercel.app/api/top-langs/?username=iamAni9&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&count_private=true&hide=c%23&langs_count=4" height="195" alt="Top Languages" />
+  <img src="https://github-stats-extended-frontend-beryl.vercel.app/api?username=iamAni9&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-frontend-beryl.vercel.app/api/top-langs/?username=iamAni9&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&count_private=true&hide=c%23,c%2B%2B&langs_count=4" height="195" alt="Top Languages" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamAni9&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="100%"/>
 </div>
 
 <br/>
 <div align="center">
   <img src="https://raw.githubusercontent.com/iamAni9/iamAni9/output/github-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
-
