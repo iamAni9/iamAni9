@@ -25,7 +25,7 @@
 
 </td>
 <td width="40%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAni9&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=iamAni9&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" alt="Streak Stats" />
 </td>
 </tr>
 </table>
